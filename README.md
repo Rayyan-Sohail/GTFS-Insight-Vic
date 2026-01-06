@@ -1,2 +1,1 @@
-# GTFS-Insight-Vic
-GTFS-Insight Vic uses PTV GTFS, GTFS-Realtime, and the PTV Open Data API to visualise Victoria’s public transport network. Built interactive maps with Leaflet, showing routes, stops, wheelchair access, live alerts, nearest stops, timetables, and service status (on time, early, delayed).
+GTFS-Insight Vic uses PTV (Public Transport Victoria, Australia) GTFS, GTFS-Realtime, and the PTV Open Data API to analyse and visualise Victoria’s public transport network, and to build user-friendly maps with Leaflet that display routes, stops, wheelchair-accessible services, and live alerts, while I am also developing location-based features to identify nearby stops, present timetables, and indicate whether services are on time, early, delayed, or disrupted.
